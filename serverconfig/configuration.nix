@@ -55,7 +55,7 @@
         hashedPasswordFile = "/home/mallPassHash.txt";
         aliases = ["postmaster@rubberroomwithrats.com];
       };
-      "psychopathy@exmaple.com" = {
+      "psychopathy@rubberroomwithrats.com" = {
         hashedPasswordFile = "/home/psychopathyEmailHash.txt";
         aliases = ["psychopathy@rubberroomwithrats.com];
       };
