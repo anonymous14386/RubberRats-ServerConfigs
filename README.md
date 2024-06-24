@@ -13,6 +13,8 @@ sudo nixos-rebuild swtich
 
 cd /root/RubberRats-ServerConfigs
 
+nix-shell -p git
+
 git pull
 
 sudo nixos-rebuild switch --flake . 
